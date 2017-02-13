@@ -78,5 +78,5 @@ mas "Numbers", id: 409203825
 mas "Keynote", id: 409183694
 mas "Kobito - Markdown メモアプリ", id: 896624060
 mas "The Unarchiver", id: 425424353
-mas "Bee - Issue Tracking made Native", id: 726099620
-mas "Airmail 3", id: 918858936
+#mas "Bee - Issue Tracking made Native", id: 726099620
+#mas "Airmail 3", id: 918858936
